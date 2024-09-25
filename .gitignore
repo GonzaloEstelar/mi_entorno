@@ -1,0 +1,8 @@
+# Ignorar el entorno virtual y dependencias
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Archivos de configuración del entorno
+.env
